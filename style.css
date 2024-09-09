@@ -1,0 +1,70 @@
+.horario {
+  border: 2px solid red;
+  width: 1400px;
+}
+main {
+  display: flex;
+  flex-wrap: wrap;
+}
+table {
+  margin: 10px;
+  width: 97%;
+  border-collapse: collapse;
+  height: 700px;
+}
+.dias {
+  border: solid #000;
+  border-collapse: 0px;
+}
+.mg:hover {
+  background-color: rgb(209, 209, 248);
+  color: black;
+}
+.hora {
+  background-color: rgb(70, 207, 166);
+  height: 40px;
+  width: 100px;
+}
+.tamaño {
+  background-color: rgb(70, 207, 166);
+  border: solid #000;
+  border-collapse: 0px;
+}
+/* .cont2 {
+  border: 2px solid red;
+  width: 250px;
+}
+.title {
+  margin: 10px;
+  color: cadetblue;
+  font-size: 30px;
+}
+.Cursos {
+  background-color: chartreuse;
+  padding: 10px;
+  margin: 5px;
+  display: inline-block;
+} */
+.mg {
+  text-align: justify;
+  padding: 5px;
+  color: aliceblue;
+}
+.CARLOS {
+  background-color: rgb(183, 4, 4);
+}
+.GOBIERNO {
+  background-color: violet;
+}
+.EDWIN {
+  background-color: rgb(4, 146, 146);
+}
+.REQUERIMIENTO {
+  background-color: rgb(172, 155, 0);
+}
+.BASE {
+  background-color: rgb(37, 73, 203);
+}
+.INJANTE {
+  background-color: rgb(12, 142, 2);
+}
